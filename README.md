@@ -1,4 +1,4 @@
-## Descrição do Projeto
+# Descrição do Projeto
 
 O projeto "Immaculate" visa criar uma aplicação que permita verificar a identidade de uma pessoa (exemplo: CPF) com Zero-Knowledge Proof (ZKP). O sistema deve ser leve, escalável e seguir os padrões W3C para identificadores descentralizados (DIDs).
 
