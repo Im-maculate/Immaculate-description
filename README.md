@@ -115,7 +115,7 @@ if __name__ == "__main__":
 **Execução da Aplicação:**
 Instalar as dependências
 ```bash
-pip install -r requirements.tx
+pip install -r requirements.txt
 ```
 Executar a aplicação
 ```bash
