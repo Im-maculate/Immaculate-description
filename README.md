@@ -113,13 +113,12 @@ if __name__ == "__main__":
 ```
 
 **Execução da Aplicação:**
+Instalar as dependências
 ```bash
-# Instalar as dependências
 pip install -r requirements.tx
 ```
-
+Executar a aplicação
 ```bash
-# Executar a aplicação
 python app.py
 ```
 ------------------------------------------------------
@@ -214,16 +213,16 @@ urlpatterns = [
 ```
 
 **Execução da Aplicação Django:**
+Navegar para o diretório do projeto
 ```bash
-# Navegar para o diretório do projeto
 cd django_app
 ```
+Instalar as dependências
 ```bash
-# Instalar as dependências
 pip install -r requirements.txt
 ```
+Executar o servidor
 ```bash
-# Executar o servidor
 python manage.py runserver
 ```
 
